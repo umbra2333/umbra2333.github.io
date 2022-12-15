@@ -1,0 +1,9 @@
+    body{
+        background-color: darkviolet;
+    }
+    .box{
+        width: 666px;
+        height: 88px;
+        border: solid 9px rebeccapurple;
+
+    }
